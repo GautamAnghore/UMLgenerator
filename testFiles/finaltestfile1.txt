@@ -1,0 +1,34 @@
+<class>
+    
+<name>
+    
+classname
+</name>
+
+<function>
++ fun1():int
++ fun2():int
++ fun3():int
+     
+</function>
+
+<data>
+
+- abc : int
+
+</data>
+
+
+
+</class>
+
+<class>
+
+<name>
+ gautam
+ </name>
+
+<function>
+
+</function>
+ </class>
